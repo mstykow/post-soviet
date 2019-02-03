@@ -1,6 +1,6 @@
 # Analyzing Post-Soviet Constitutions and Political Systems
 
-This project analyzes democratization trends in post-soviet countries.
+This project analyzes democratization trends in post-soviet countries. Open the [Jupyter Notebook file](https://github.com/mstykow/post-soviet/blob/master/V-Dem.ipynb) to begin the project.
 
 Data sources:
 
